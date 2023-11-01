@@ -1,5 +1,3 @@
-# vue-timeliner
-
 ## Project setup
 ```
 yarn install
